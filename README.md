@@ -1,3 +1,4 @@
+
 ### **1️⃣ Airbnb Price Prediction**
 📌 **Objective:** Predict Airbnb listing prices based on property type, location, amenities, and host details.  
 🔹 **Key Highlights:**
@@ -8,9 +9,7 @@
 
 🛠 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost  
 📄 **Skills Used:** EDA, Feature Engineering, Model Selection, Hyperparameter Tuning, Data Visualization  
-
 ---
-
 ### **2️⃣ Customer Churn Prediction**
 📌 **Objective:** Predict customer churn using demographic, account, and service-related data.  
 🔹 **Key Highlights:**
@@ -29,8 +28,8 @@
 - **Data Analysis:** Pandas, NumPy, Excel  
 - **Visualization:** Matplotlib, Seaborn, Power BI  
 - **Machine Learning:** Scikit-learn, XGBoost  
-- **Other Tools:** Jupyter Notebook, Git, Google Colab  
+- **Other Tools:** Jupyter Notebook, Google Colab  
 
 ---
 
-⚡ *"Data is the new oil, but it’s the analysis that turns it into fuel for innovation."*
+
