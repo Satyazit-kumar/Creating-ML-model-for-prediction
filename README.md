@@ -11,8 +11,9 @@
 - Evaluated model performance using **RMSE, MAE, and R²**.
 - Delivered **actionable insights** to help hosts optimize pricing.
 
-🛠 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost  
-📄 **Skills Used:** EDA, Feature Engineering, Model Selection, Hyperparameter Tuning, Data Visualization  
+🛠 **Tech Stack:** Python, Pandas, Scikit-learn,Numpy, Matplotlib, Seaborn,XGBoost 
+📄 **Skills Used:** EDA, Feature Engineering, Model Selection, Hyperparameter Tuning, Data Visualisation
+
 ---
 ### **2️⃣ Customer Churn Prediction**
 
