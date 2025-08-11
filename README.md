@@ -1,6 +1,10 @@
 
 ### **1️⃣ Airbnb Price Prediction**
+
 📌 **Objective:** Predict Airbnb listing prices based on property type, location, amenities, and host details.  
+
+  **Dataset used:** [Airbnb_data](https://docs.google.com/spreadsheets/d/1N7P0euUjfjB8XXdTBQeicjGjxAOm18wvCRLaQC92a8g/edit?gid=693059640#gid=693059640)
+
 🔹 **Key Highlights:**
 - Performed **data cleaning, feature engineering, and outlier analysis**.
 - Used **regression algorithms** to achieve optimal accuracy.
@@ -11,6 +15,9 @@
 📄 **Skills Used:** EDA, Feature Engineering, Model Selection, Hyperparameter Tuning, Data Visualization  
 ---
 ### **2️⃣ Customer Churn Prediction**
+
+ **Dataset used:** [Customer_data](https://docs.google.com/spreadsheets/d/1rnBO9F9xdSUY-WpeOJilMxMRZT-hwwWq6O98OHreY0k/edit?gid=1602415961#gid=1602415961)
+ 
 📌 **Objective:** Predict customer churn using demographic, account, and service-related data.  
 🔹 **Key Highlights:**
 - Built a **classification model** to identify at-risk customers.
